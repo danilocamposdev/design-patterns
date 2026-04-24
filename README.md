@@ -1,6 +1,6 @@
 # Design Patterns
 
-[![Java 25](https://img.shields.io/badge/Java-25-orange?style=for-the-badge&logo=openjdk)](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html)
+[![Java 25](https://img.shields.io/badge/Java-25-orange?style=for-the-badge&logo=openjdk)](https://www.oracle.com/java/technologies/javase/jdk25-archive-downloads.html)
 [![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)](https://gradle.org)
 
 Repositório dedicado à implementação e estudo de padrões de projeto (*Design Patterns*) utilizando Java.
@@ -22,7 +22,7 @@ Repositório dedicado à implementação e estudo de padrões de projeto (*Desig
 
 Requisitos:
 
-* [Java JDK 25](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html)
+* [Java JDK 25](https://www.oracle.com/java/technologies/javase/jdk25-archive-downloads.html)
 * [Git](https://git-scm.com)
 * [Gradle](https://gradle.org)
 
