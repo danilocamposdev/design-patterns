@@ -29,15 +29,15 @@ Requisitos:
 1. Clone o repositório:
 
 ```bash
-   git clone https://github.com/danilocamposdev/design-patterns.git
+    git clone https://github.com/danilocamposdev/design-patterns.git
 ```
 1. Navegue até o diretório do projeto:
 
 ```bash
-   cd design-patterns
+    cd design-patterns
 ```
 1. Compile e execute o projeto via Gradle:
 
 ```bash
-   ./gradlew run
+    ./gradlew run
 ```
